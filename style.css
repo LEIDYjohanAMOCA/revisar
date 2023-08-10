@@ -1,0 +1,176 @@
+*{
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+}
+.head {
+  display: flex;
+  align-items: rihgt;
+  justify-content: space-between;
+  height: 100px;
+  position:relative;
+  width: 90%;
+  z-index: 20;
+  
+}
+
+img {
+position: relative;
+top: 25px;
+float: left;
+width: 150%;
+height: 220px;
+margin-right:auto;
+
+}
+.mydiv{
+  margin: 0;
+  padding-left: 280px;
+  text-align: right;
+  height: 100px;
+  color: blueviolet;
+  font-size: 80px;
+  font-family: cursive;
+  position: center;
+  margin-top: 15px;
+
+   
+}
+
+ h1{
+  color: rgb(33, 226, 233);
+  font-size: 70px;
+  text-align: center;
+  font-family: cursive;
+  height: 180%;
+  position:center;
+  top: 180px;
+  margin-top:150px;
+
+}
+p{
+  color: rgb(216, 184, 216);
+  font-size:80px;
+  text-align: center;
+  height: 50%;
+}
+
+hr{
+  border: 1px solid #30dbdb;
+  height: 0px;
+  width: 100%;
+  text-align: center;
+  margin-top: 250px;
+  
+}
+a{
+  margin-top: 30px;
+  color: #8e21d6;
+  text-decoration: none;
+  letter-spacing: -5px;
+  word-spacing:1px;
+  margin-top: 200%;
+  margin-top: 200%;
+  font-size: 70px;
+  width: auto;
+  height: 500px;  
+  hyphens: none;
+}
+.b{
+  color: #1ee7d6;
+  font-family: cursive;
+
+}
+
+
+h2{
+  color: #f5a2f5;
+  position:relative;
+  top: 2px;
+  left: 150px;
+  font-size:50px;
+}
+h2 img{
+  width: 70px ;
+  height: 80px;
+  position: relative;
+  top:-20px ;
+  left:1px;
+  text-align:90%;
+
+}
+h3{
+  color: #1ee7d6;
+  position:relative;
+  top: 45px;
+  left: 50px;
+  font-size:50px;
+  text-align: 90%;
+border-radius: 80%;
+
+}
+h3 img{
+  width: 70px ;
+  height: 80px;
+  position: relative;
+  top: 2px;
+  left: 1px;
+}
+#apartado2{
+  border: 1px solid #1ee7d6;
+  border-radius: 15px;
+  position:relative;
+  top: 120px;
+  left: -250px;
+  margin: auto;
+  margin-top: -2%;
+}
+
+.caja{
+  font-family:cursive;
+  text-align:center;
+  font-size: 30px;
+  width: 200px;
+  position:relative;
+  top: 5px;
+  left: 1440px;
+  color: #30dbdb;
+  background-color: #8e21d6;
+  margin: 25px;
+  padding-right: 25px;
+  border-radius: 50px;
+}
+.fa:hover {
+  opacity: 0.9;
+}
+
+
+.fa-youtube {
+  background: #b50000;
+  color: white;
+  position: relative;
+  top:15px;
+  left: 1600px;
+}
+
+.fa-facebook {
+  background: #1233ec;
+  color: white;
+  position: relative;
+  top:15px;
+  left: 1300px;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: -5px;
+  width: 60px;
+  height: 10px;
+  text-decoration: none;
+  margin: 10px;
+  text-align: left !important;
+}
+
